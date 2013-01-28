@@ -42,3 +42,5 @@ build/
 xcuserdata
 !xcshareddata
 *.moved-aside
+log/
+.rvmrc
