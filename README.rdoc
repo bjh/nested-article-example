@@ -1,4 +1,0 @@
-== Source code examples for a blog post
-
-Alrighty then!
-
